@@ -19,6 +19,7 @@ Open the folder `Canvas Input` to `index.html` and click Go Live on the bottom r
 Necessary inputs:
 - Label: the text label of the object that you want
 - Color: the color of that object that you want
+
 Then draw a box of where you want this object to be and how large you want it to be.
 
 When you've drawn all objects, specify the background that you want all objects to be in in the background text input section. 
